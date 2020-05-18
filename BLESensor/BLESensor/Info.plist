@@ -20,6 +20,8 @@
 	<string>1</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Allows the app to use bluetooth for communication</string>
 	<key>NSBluetoothPeripheralUsageDescription</key>
 	<string>Allows the app to act as a BLESensor Peripheral while in background</string>
 	<key>UIBackgroundModes</key>
